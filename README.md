@@ -1,2 +1,1 @@
-# cv
-Mi Curriculum
+*** CV Marianella Molina Solorzano @ Venezuela @ 2021 ***
