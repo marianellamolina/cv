@@ -24,7 +24,9 @@ body {
 }
 
 .jpy-photo {
-	max-height: 200px;
+	margin-left: 1rem;
+	width: 230px;
+	max-height: 240px;
 }
 
 @media (max-width: 767px) {	
@@ -34,6 +36,7 @@ body {
 		margin-bottom: 20px;
 	}
 	.jpy-photo {
+		width: 120px;
 		max-height: 150px;
 	}
 }
